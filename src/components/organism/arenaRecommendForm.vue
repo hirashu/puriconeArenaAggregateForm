@@ -2,8 +2,8 @@
   <div class="home">
     <h2>相手のチーム編成</h2>
     <TeamCompositionList :teamCharacterInfoList="teamCharacterInfoList" />
-    <button background-color="primary">検索ボタン（デザイン考える）</button>
-    <button background-color="primary">リセットボタン</button>
+    <v-btn>検索ボタン（デザイン考える）</v-btn>
+    <v-btn>リセットボタン</v-btn>
     <h2>チーム編成のおすすめ</h2>
     <TeamCompositionList disabled />
     <h2>編成キャラクター選択</h2>
