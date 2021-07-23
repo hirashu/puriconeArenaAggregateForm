@@ -1,11 +1,12 @@
 <template>
   <div class="home">
-    <h2>相手のチーム編成</h2>
-    <TeamCompositionList :teamCharacterInfoList="teamCharacterInfoList" />
-    <v-btn>検索ボタン（デザイン考える）</v-btn>
-    <v-btn>リセットボタン</v-btn>
-    <h2>チーム編成のおすすめ</h2>
+    <h2>自分チーム編成</h2>
     <TeamCompositionList disabled />
+    <h2>相手チーム編成</h2>
+    <TeamCompositionList :teamCharacterInfoList="teamCharacterInfoList" />
+    <v-btn>勝敗</v-btn>
+    <v-btn>追加</v-btn>
+    <v-btn>ファイル保存</v-btn>
     <h2>編成キャラクター選択</h2>
     <CharacterPositionForm
       :characterInfoList="characterInfoList"

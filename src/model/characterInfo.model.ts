@@ -4,5 +4,4 @@ export interface CharacterInfo {
   image: string;
   position: number;
   config: number;
-  features: number[];
 }
