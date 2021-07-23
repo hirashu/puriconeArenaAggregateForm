@@ -1,402 +1,1101 @@
 [
-  {
-    "id" : "003",
-    "name": "アカリ",
-    "image": "003_akari.png",
-    "position": 2,
-    "config": 630,
-    "features":[0,1,0.5,0.63,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1]
-  },
-  {
-    "id" : "005",
-    "name": "アキノ",
-    "image": "005_akino.png",
-    "position": 1,
-    "config": 160,
-    "features":[1,0,0,0.16,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0]
-  },
-  {
-    "id" : "012",
-    "name": "アン",
-    "image": "012_ann.png",
-    "position": 3,
-    "config": 720,
-    "features":[0,1,1,0.72,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0]
-  },
-  {
-    "id" : "014",
-    "name": "イオ",
-    "image": "014_io.png",
-    "position": 3,
-    "config": 800,
-    "features":[0,1,1,0.8,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1]
-  },
-  {
-    "id" : "017",
-    "name": "イリヤ",
-    "image": "017_ilya.png",
-    "position": 4,
-    "config": 510,
-    "features":[0,1,0.5,0.51,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0]
-  },
-  {
-    "id" : "019",
-    "name": "ウヅキ",
-    "image": "019_uzuki.png",
-    "position": 2,
-    "config": 500,
-    "features":[1,0,0.5,0.425,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0]
-  },
-  {
-    "id" : "024",
-    "name": "カスミ",
-    "image": "024_kasumi.png",
-    "position": 3,
-    "config": 840,
-    "features":[0,1,1,0.84,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,1,0]
-  },
-  {
-    "id" : "025",
-    "name": "カスミ_マジカル",
-    "image": "025_kasumi_magic.png",
-    "position": 3,
-    "config": 845,
-    "features":[0,1,1,0.845,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1]
-  },
-  {
-    "id" : "027",
-    "name": "キャル",
-    "image": "027_kyaru.png",
-    "position": 3,
-    "config": 880,
-    "features":[0,1,1,0.88,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1]
-  },
-  {
-    "id" : "028",
-    "name": "キャル_プリンセス",
-    "image": "028_kyaru_princess.png",
-    "position": 3,
-    "config": 875,
-    "features":[0,1,1,0.875,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0]
-  },
-  {
-    "id" : "029",
-    "name": "キョウカ",
-    "image": "029_kyouka.png",
-    "position": 3,
-    "config": 1010,
-    "features":[0,1,1,1.01,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0]
-  },
-  {
-    "id" : "031",
-    "name": "クウカ",
-    "image": "031_kuka.png",
-    "position": 1,
-    "config": 30,
-    "features":[0,1,0,0.03,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0]
-  },
-  {
-    "id" : "032",
-    "name": "クウカ_江戸",
-    "image": "032_kuka_edo.png",
-    "position": 1,
-    "config": 50,
-    "features":[0,1,0,0.05,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0]
-  },
-  {
-    "id" : "033",
-    "name": "クリスティーナ",
-    "image": "033_kurisu.png",
-    "position": 1,
-    "config": 370,
-    "features":[1,0,0,0.37,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0]
-  },
-  {
-    "id" : "040",
-    "name": "コッコロ",
-    "image": "040_kokkoro.png",
-    "position": 2,
-    "config": 570,
-    "features":[1,0,0.5,0.57,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "041",
-    "name": "コッコロ_プリンセス",
-    "image": "041_kokkoro_princess.png",
-    "position": 2,
-    "config": 633,
-    "features":[1,0,0.5,0.633,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1]
-  },
-  {
-    "id" : "043",
-    "name": "サレン",
-    "image": "043_saren.png",
-    "position": 2,
-    "config": 530,
-    "features":[1,0,0.5,0.53,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0]
-  },
-  {
-    "id" : "044",
-    "name": "サレン_Xmas",
-    "image": "044_saren_xmas.png",
-    "position": 1,
-    "config": 65,
-    "features":[1,0,0,0.065,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,1,0]
-  },
-  {
-    "id" : "047",
-    "name": "シズル",
-    "image": "047_sizuru.png",
-    "position": 1,
-    "config": 360,
-    "features":[1,0,0,0.36,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0]
-  },
-  {
-    "id" : "048",
-    "name": "シズル_Vday",
-    "image": "048_sizuru_vday.png",
-    "position": 2,
-    "config": 440,
-    "features":[1,0,0.5,0.44,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0]
-  },
-  {
-    "id" : "053",
-    "name": "スズナ",
-    "image": "053_suzuna.png",
-    "position": 3,
-    "config": 770,
-    "features":[1,0,1,0.77,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0]
-  },
-  {
-    "id" : "055",
-    "name": "タマキ",
-    "image": "055_tamaki.png",
-    "position": 1,
-    "config": 270,
-    "features":[1,0,0,0.27,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1]
-  },
-  {
-    "id" : "059",
-    "name": "チカ_Xmas",
-    "image": "059_chika_xmas.png",
-    "position": 3,
-    "config": 920,
-    "features":[0,1,1,0.92,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "065",
-    "name": "ニノン",
-    "image": "065_ninon.png",
-    "position": 2,
-    "config": 480,
-    "features":[1,0,0.5,0.48,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0]
-  },
-  {
-    "id" : "067",
-    "name": "ネネカ",
-    "image": "067_neneka.png",
-    "position": 3,
-    "config": 740,
-    "features":[0,1,1,0.74,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0]
-  },
-  {
-    "id" : "068",
-    "name": "ノゾミ",
-    "image": "068_nozomi.png",
-    "position": 1,
-    "config": 100,
-    "features":[1,0,0,0.1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1]
-  },
-  {
-    "id" : "070",
-    "name": "ハツネ",
-    "image": "070_hatsune.png",
-    "position": 3,
-    "config": 890,
-    "features":[0,1,1,0.89,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1]
-  },
-  {
-    "id" : "071",
-    "name": "ヒヨリ",
-    "image": "071_hiyori.png",
-    "position": 1,
-    "config": 230,
-    "features":[1,0,0,0.23,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0]
-  },
-  {
-    "id" : "073",
-    "name": "ペコリーヌ",
-    "image": "073_peko.png",
-    "position": 1,
-    "config": 80,
-    "features":[1,0,0,0.08,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0]
-  },
-  {
-    "id" : "074",
-    "name": "ぺコリーヌ_プリンセス",
-    "image": "074_peko_princess.png",
-    "position": 1,
-    "config": 85,
-    "features":[1,0,0,0.085,0,0,0,1,0,0,1,0,1,0,1,0.5,0.5,0,1,1,0,0]
-  },
-  {
-    "id" : "081",
-    "name": "マホ",
-    "image": "081_maho.png",
-    "position": 3,
-    "config": 980,
-    "features":[0,1,1,0.98,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0]
-  },
-  {
-    "id" : "091",
-    "name": "ミミ",
-    "image": "091_mimi.png",
-    "position": 2,
-    "config": 410,
-    "features":[1,0,0.5,0.41,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0]
-  },
-  {
-    "id" : "093",
-    "name": "ミヤコ",
-    "image": "093_miyako.png",
-    "position": 1,
-    "config": 20,
-    "features":[1,0,0,0.02,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0]
-  },
-  {
-    "id" : "098",
-    "name": "ユイ",
-    "image": "098_yui.png",
-    "position": 3,
-    "config": 990,
-    "features":[0,1,1,0.99,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "099",
-    "name": "ユイ_プリンセス",
-    "image": "099_yui_princess.png",
-    "position": 3,
-    "config": 915,
-    "features":[0,1,1,0.915,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0]
-  },
-  {
-    "id" : "100",
-    "name": "ユカリ",
-    "image": "100_yukari.png",
-    "position": 2,
-    "config": 460,
-    "features":[1,0,0.5,0.46,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "103",
-    "name": "ユニ",
-    "image": "103_yuni.png",
-    "position": 3,
-    "config": 1005,
-    "features":[0,1,1,1.005,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0]
-  },
-  {
-    "id" : "104",
-    "name": "ヨリ",
-    "image": "104_yori.png",
-    "position": 2,
-    "config": 640,
-    "features":[0,1,0.5,0.64,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0]
-  },
-  {
-    "id" : "106",
-    "name": "ラム",
-    "image": "106_ramu.png",
-    "position": 2,
-    "config": 620,
-    "features":[0,1,0.5,0.62,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1]
-  },
-  {
-    "id" : "107",
-    "name": "ラビリスタ",
-    "image": "107_labyrista.png",
-    "position": 2,
-    "config": 636,
-    "features":[1,0,0.5,0.636,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0]
-  },
-  {
-    "id" : "108",
-    "name": "リノ",
-    "image": "108_rino.png",
-    "position": 3,
-    "config": 760,
-    "features":[1,0,1,0.76,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0]
-  },
-  {
-    "id" : "110",
-    "name": "リマ",
-    "image": "110_rima.png",
-    "position": 1,
-    "config": 10,
-    "features":[1,0,0,0.01,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,1,0]
-  },
-  {
-    "id" : "113",
-    "name": "リン_レンジャー",
-    "image": "113_rin_ranger.png",
-    "position": 2,
-    "config": 505,
-    "features":[1,0,0.5,0.505,0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1]
-  },
-  {
-    "id" : "117",
-    "name": "ルナ",
-    "image": "117_runa.png",
-    "position": 3,
-    "config": 910,
-    "features":[0,1,1,0.91,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0]
-  },
-  {
-    "id" : "118",
-    "name": "レイ",
-    "image": "118_rei.png",
-    "position": 1,
-    "config": 340,
-    "features":[1,0,0,0.34,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0]
-  },
-  {
-    "id" : "120",
-    "name": "レム",
-    "image": "120_remu.png",
-    "position": 2,
-    "config": 610,
-    "features":[1,0,0.5,0.61,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0]
-  },
-  {
-    "id" : "122",
-    "name": "正月コッコロ",
-    "image": "122_kokkoro_newyear.png",
-    "position": 1,
-    "config": 95,
-    "features":[1,0,0,0.095,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "128",
-    "name": "正月ユイ",
-    "image": "128_yui_newyear.png",
-    "position": 3,
-    "config": 870,
-    "features":[0,1,1,0.87,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0]
-  },
-  {
-    "id" : "131",
-    "name": "水着イオ",
-    "image": "131_io_summer.png",
-    "position": 3,
-    "config": 810,
-    "features":[0,1,1,0.81,0,0,0,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0]
-  },
-  {
-    "id" : "136",
-    "name": "水着サレン",
-    "image": "136_saren_summer.png",
-    "position": 2,
-    "config": 650,
-    "features":[1,0,0.5,0.65,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0]
-  }
+	{
+		"id":"001",
+		"name":"アオイ",
+		"image":"001_aoi.png",
+		"position":3,
+		"config":1560
+	},
+	{
+		"id":"002",
+		"name":"アオイ_編入生",
+		"image":"002_aoi_trans.png",
+		"position":3,
+		"config":1260
+	},
+	{
+		"id":"003",
+		"name":"アカリ",
+		"image":"003_akari.png",
+		"position":2,
+		"config":1140
+	},
+	{
+		"id":"004",
+		"name":"アカリ_エンジェル",
+		"image":"004_akari_en.png",
+		"position":2,
+		"config":1020
+	},
+	{
+		"id":"005",
+		"name":"アキノ",
+		"image":"005_akino.png",
+		"position":1,
+		"config":260
+	},
+	{
+		"id":"006",
+		"name":"アキノ_Xmas",
+		"image":"006_akino_xmas.png",
+		"position":1,
+		"config":340
+	},
+	{
+		"id":"007",
+		"name":"アヤネ",
+		"image":"007_ayane.png",
+		"position":1,
+		"config":420
+	},
+	{
+		"id":"008",
+		"name":"アヤネ_Xmas",
+		"image":"008_ayane_xmas.png",
+		"position":1,
+		"config":350
+	},
+	{
+		"id":"009",
+		"name":"アユミ",
+		"image":"009_ayumi.png",
+		"position":2,
+		"config":980
+	},
+	{
+		"id":"010",
+		"name":"アユミ_ワンダー",
+		"image":"010_ayumi_wonder.png",
+		"position":2,
+		"config":970
+	},
+	{
+		"id":"011",
+		"name":"アリサ",
+		"image":"011_arisa.png",
+		"position":3,
+		"config":1210
+	},
+	{
+		"id":"012",
+		"name":"アン",
+		"image":"012_ann.png",
+		"position":3,
+		"config":1220
+	},
+	{
+		"id":"013",
+		"name":"アンナ",
+		"image":"013_anna.png",
+		"position":2,
+		"config":920
+	},
+	{
+		"id":"014",
+		"name":"イオ",
+		"image":"014_io.png",
+		"position":3,
+		"config":1350
+	},
+	{
+		"id":"015",
+		"name":"イノリ",
+		"image":"015_inori.png",
+		"position":1,
+		"config":380
+	},
+	{
+		"id":"016",
+		"name":"イノリ_タイムトラベル",
+		"image":"016_iori_timetravel.png",
+		"position":1,
+		"config":560
+	},
+	{
+		"id":"017",
+		"name":"イリヤ",
+		"image":"017_ilya.png",
+		"position":2,
+		"config":890
+	},
+	{
+		"id":"018",
+		"name":"イリヤ_Xmas",
+		"image":"018_ilya_xmas.png",
+		"position":1,
+		"config":570
+	},
+	{
+		"id":"019",
+		"name":"ウヅキ",
+		"image":"019_uzuki.png",
+		"position":2,
+		"config":740
+	},
+	{
+		"id":"020",
+		"name":"エミリア",
+		"image":"020_emiria.png",
+		"position":3,
+		"config":1390
+	},
+	{
+		"id":"021",
+		"name":"エリコ",
+		"image":"021_eriko.png",
+		"position":1,
+		"config":500
+	},
+	{
+		"id":"022",
+		"name":"エリコ_Vday",
+		"image":"022_eriko_vday.png",
+		"position":1,
+		"config":330
+	},
+	{
+		"id":"023",
+		"name":"カオリ",
+		"image":"023_kaori.png",
+		"position":1,
+		"config":70
+	},
+	{
+		"id":"024",
+		"name":"カスミ",
+		"image":"024_kasumi.png",
+		"position":3,
+		"config":1400
+	},
+	{
+		"id":"025",
+		"name":"カスミ_マジカル",
+		"image":"025_kasumi_magic.png",
+		"position":3,
+		"config":1410
+	},
+	{
+		"id":"026",
+		"name":"カヤ",
+		"image":"026_kaya.png",
+		"position":1,
+		"config":210
+	},
+	{
+		"id":"027",
+		"name":"キャル",
+		"image":"027_kyaru.png",
+		"position":3,
+		"config":1480
+	},
+	{
+		"id":"028",
+		"name":"キャル_プリンセス",
+		"image":"028_kyaru_princess.png",
+		"position":3,
+		"config":1470
+	},
+	{
+		"id":"029",
+		"name":"キョウカ",
+		"image":"029_kyouka.png",
+		"position":3,
+		"config":1630
+	},
+	{
+		"id":"030",
+		"name":"キョウカ_HW",
+		"image":"030_kyouka_hw.png",
+		"position":3,
+		"config":1650
+	},
+	{
+		"id":"031",
+		"name":"クウカ",
+		"image":"031_kuka.png",
+		"position":1,
+		"config":30
+	},
+	{
+		"id":"032",
+		"name":"クウカ_江戸",
+		"image":"032_kuka_edo.png",
+		"position":1,
+		"config":60
+	},
+	{
+		"id":"033",
+		"name":"クリスティーナ",
+		"image":"033_kurisu.png",
+		"position":1,
+		"config":620
+	},
+	{
+		"id":"034",
+		"name":"クリスティーナ_Xmas",
+		"image":"034_kurisu_xmas.png",
+		"position":1,
+		"config":590
+	},
+	{
+		"id":"035",
+		"name":"クルミ",
+		"image":"035_kurumi.png",
+		"position":1,
+		"config":520
+	},
+	{
+		"id":"036",
+		"name":"クルミ_Xmas",
+		"image":"036_kurumi_xmas.png",
+		"position":1,
+		"config":630
+	},
+	{
+		"id":"037",
+		"name":"クロエ",
+		"image":"037_kuroe.png",
+		"position":1,
+		"config":310
+	},
+	{
+		"id":"038",
+		"name":"クロエ_学祭",
+		"image":"038_kuroe_schoolfes.png",
+		"position":1,
+		"config":290
+	},
+	{
+		"id":"039",
+		"name":"グレア",
+		"image":"039_gurea.png",
+		"position":2,
+		"config":990
+	},
+	{
+		"id":"040",
+		"name":"コッコロ",
+		"image":"040_kokkoro.png",
+		"position":2,
+		"config":960
+	},
+	{
+		"id":"041",
+		"name":"コッコロ_プリンセス",
+		"image":"041_kokkoro_princess.png",
+		"position":2,
+		"config":1090
+	},
+	{
+		"id":"042",
+		"name":"コッコロ_儀式",
+		"image":"042_kokkoro_ritual.png",
+		"position":2,
+		"config":1040
+	},
+	{
+		"id":"043",
+		"name":"サレン",
+		"image":"043_saren.png",
+		"position":2,
+		"config":910
+	},
+	{
+		"id":"044",
+		"name":"サレン_Xmas",
+		"image":"044_saren_xmas.png",
+		"position":1,
+		"config":80
+	},
+	{
+		"id":"045",
+		"name":"シェフィ",
+		"image":"045_sheffi.png",
+		"position":2,
+		"config":735
+	},
+	{
+		"id":"046",
+		"name":"シオリ",
+		"image":"046_siori.png",
+		"position":3,
+		"config":1330
+	},
+	{
+		"id":"047",
+		"name":"シズル",
+		"image":"047_sizuru.png",
+		"position":1,
+		"config":610
+	},
+	{
+		"id":"048",
+		"name":"シズル_Vday",
+		"image":"048_sizuru_vday.png",
+		"position":2,
+		"config":770
+	},
+	{
+		"id":"049",
+		"name":"シノブ",
+		"image":"049_sinobu.png",
+		"position":2,
+		"config":720
+	},
+	{
+		"id":"050",
+		"name":"シノブ_HW",
+		"image":"050_sinobu_hw.png",
+		"position":2,
+		"config":930
+	},
+	{
+		"id":"051",
+		"name":"ジュン",
+		"image":"051_jun.png",
+		"position":1,
+		"config":40
+	},
+	{
+		"id":"052",
+		"name":"ジータ",
+		"image":"052_zita.png",
+		"position":1,
+		"config":530
+	},
+	{
+		"id":"053",
+		"name":"スズナ",
+		"image":"053_suzuna.png",
+		"position":3,
+		"config":1310
+	},
+	{
+		"id":"054",
+		"name":"スズメ",
+		"image":"054_suzume.png",
+		"position":3,
+		"config":1370
+	},
+	{
+		"id":"055",
+		"name":"タマキ",
+		"image":"055_tamaki.png",
+		"position":1,
+		"config":440
+	},
+	{
+		"id":"056",
+		"name":"チエル",
+		"image":"056_chieru.png",
+		"position":1,
+		"config":470
+	},
+	{
+		"id":"057",
+		"name":"チエル_学祭",
+		"image":"057_chieru_schoolfes.png",
+		"position":1,
+		"config":480
+	},
+	{
+		"id":"058",
+		"name":"チカ",
+		"image":"058_chika.png",
+		"position":3,
+		"config":1570
+	},
+	{
+		"id":"059",
+		"name":"チカ_Xmas",
+		"image":"059_chika_xmas.png",
+		"position":3,
+		"config":1530
+	},
+	{
+		"id":"060",
+		"name":"ツムギ",
+		"image":"060_tumugi.png",
+		"position":1,
+		"config":370
+	},
+	{
+		"id":"061",
+		"name":"ツムギ_HW",
+		"image":"061_tsumugi_hw.png",
+		"position":1,
+		"config":90
+	},
+	{
+		"id":"062",
+		"name":"トモ",
+		"image":"062_tomo.png",
+		"position":1,
+		"config":460
+	},
+	{
+		"id":"063",
+		"name":"トモ_マジカル",
+		"image":"063_tomo_magic.png",
+		"position":2,
+		"config":800
+	},
+	{
+		"id":"064",
+		"name":"ナナカ",
+		"image":"064_nanaka.png",
+		"position":3,
+		"config":1450
+	},
+	{
+		"id":"065",
+		"name":"ニノン",
+		"image":"065_ninon.png",
+		"position":2,
+		"config":850
+	},
+	{
+		"id":"066",
+		"name":"ニノン_江戸",
+		"image":"066_ninon_edo.png",
+		"position":1,
+		"config":250
+	},
+	{
+		"id":"067",
+		"name":"ネネカ",
+		"image":"067_neneka.png",
+		"position":3,
+		"config":1250
+	},
+	{
+		"id":"068",
+		"name":"ノゾミ",
+		"image":"068_nozomi.png",
+		"position":1,
+		"config":160
+	},
+	{
+		"id":"069",
+		"name":"ノゾミ_Xmas",
+		"image":"069_nozomi_xmas.png",
+		"position":2,
+		"config":860
+	},
+	{
+		"id":"070",
+		"name":"ハツネ",
+		"image":"070_hatsune.png",
+		"position":3,
+		"config":1490
+	},
+	{
+		"id":"071",
+		"name":"ヒヨリ",
+		"image":"071_hiyori.png",
+		"position":1,
+		"config":400
+	},
+	{
+		"id":"072",
+		"name":"ヒヨリ_プリンセス",
+		"image":"072_hiyori_princess.png",
+		"position":1,
+		"config":390
+	},
+	{
+		"id":"073",
+		"name":"ペコリーヌ",
+		"image":"073_peko.png",
+		"position":1,
+		"config":120
+	},
+	{
+		"id":"074",
+		"name":"ぺコリーヌ_プリンセス",
+		"image":"074_peko_princess.png",
+		"position":1,
+		"config":130
+	},
+	{
+		"id":"075",
+		"name":"マコト",
+		"image":"075_makoto.png",
+		"position":1,
+		"config":190
+	},
+	{
+		"id":"076",
+		"name":"マコト_シンデレラ",
+		"image":"076_makoto_cinderella.png",
+		"position":1,
+		"config":200
+	},
+	{
+		"id":"077",
+		"name":"マツリ",
+		"image":"077_maturi.png",
+		"position":1,
+		"config":300
+	},
+	{
+		"id":"078",
+		"name":"マツリ_HW",
+		"image":"078_matsuri_hw.png",
+		"position":1,
+		"config":320
+	},
+	{
+		"id":"079",
+		"name":"マヒル",
+		"image":"079_mahiru.png",
+		"position":2,
+		"config":790
+	},
+	{
+		"id":"080",
+		"name":"マヒル＿レンジャー",
+		"image":"080_mahiru_ranger.png",
+		"position":2,
+		"config":780
+	},
+	{
+		"id":"081",
+		"name":"マホ",
+		"image":"081_maho.png",
+		"position":3,
+		"config":1590
+	},
+	{
+		"id":"082",
+		"name":"マホ_シンデレラ",
+		"image":"082_maho_cinderella.png",
+		"position":3,
+		"config":1240
+	},
+	{
+		"id":"083",
+		"name":"ミオ_デレマス",
+		"image":"083_mio.png",
+		"position":3,
+		"config":1280
+	},
+	{
+		"id":"084",
+		"name":"ミサキ",
+		"image":"084_misaki.png",
+		"position":3,
+		"config":1500
+	},
+	{
+		"id":"085",
+		"name":"ミサキ_HW",
+		"image":"085_misaki_hw.png",
+		"position":3,
+		"config":1640
+	},
+	{
+		"id":"086",
+		"name":"ミサト",
+		"image":"086_misato.png",
+		"position":3,
+		"config":1430
+	},
+	{
+		"id":"087",
+		"name":"ミソギ",
+		"image":"087_misogi.png",
+		"position":1,
+		"config":410
+	},
+	{
+		"id":"088",
+		"name":"ミソギ_HW",
+		"image":"088_misogi_hw.png",
+		"position":1,
+		"config":430
+	},
+	{
+		"id":"089",
+		"name":"ミツキ",
+		"image":"089_mituki.png",
+		"position":2,
+		"config":1120
+	},
+	{
+		"id":"090",
+		"name":"ミフユ",
+		"image":"090_mifuyu.png",
+		"position":2,
+		"config":870
+	},
+	{
+		"id":"091",
+		"name":"ミミ",
+		"image":"091_mimi.png",
+		"position":2,
+		"config":710
+	},
+	{
+		"id":"092",
+		"name":"ミミ_HW",
+		"image":"092_mimi_hw.png",
+		"position":2,
+		"config":730
+	},
+	{
+		"id":"093",
+		"name":"ミヤコ",
+		"image":"093_miyako.png",
+		"position":1,
+		"config":20
+	},
+	{
+		"id":"094",
+		"name":"ミヤコ_HW",
+		"image":"094_miyako_hw.png",
+		"position":2,
+		"config":1180
+	},
+	{
+		"id":"095",
+		"name":"ムイミ",
+		"image":"095_muimi.png",
+		"position":1,
+		"config":170
+	},
+	{
+		"id":"096",
+		"name":"モニカ",
+		"image":"096_monika.png",
+		"position":2,
+		"config":840
+	},
+	{
+		"id":"097",
+		"name":"モニカ_マジカル",
+		"image":"097_monika_magic.png",
+		"position":2,
+		"config":1010
+	},
+	{
+		"id":"098",
+		"name":"ユイ",
+		"image":"098_yui.png",
+		"position":3,
+		"config":1600
+	},
+	{
+		"id":"099",
+		"name":"ユイ_プリンセス",
+		"image":"099_yui_princess.png",
+		"position":3,
+		"config":1520
+	},
+	{
+		"id":"100",
+		"name":"ユカリ",
+		"image":"100_yukari.png",
+		"position":2,
+		"config":810
+	},
+	{
+		"id":"101",
+		"name":"ユカリ_Xmas",
+		"image":"101_yukari_xmas.png",
+		"position":2,
+		"config":830
+	},
+	{
+		"id":"102",
+		"name":"ユキ",
+		"image":"102_yuki.png",
+		"position":3,
+		"config":1610
+	},
+	{
+		"id":"103",
+		"name":"ユニ",
+		"image":"103_yuni.png",
+		"position":3,
+		"config":1620
+	},
+	{
+		"id":"104",
+		"name":"ヨリ",
+		"image":"104_yori.png",
+		"position":2,
+		"config":1150
+	},
+	{
+		"id":"105",
+		"name":"ヨリ_エンジェル",
+		"image":"105_yori_en.png",
+		"position":2,
+		"config":1030
+	},
+	{
+		"id":"106",
+		"name":"ラム",
+		"image":"106_ramu.png",
+		"position":2,
+		"config":1070
+	},
+	{
+		"id":"107",
+		"name":"ラビリスタ",
+		"image":"107_labyrista.png",
+		"position":2,
+		"config":1100
+	},
+	{
+		"id":"108",
+		"name":"リノ",
+		"image":"108_rino.png",
+		"position":3,
+		"config":1300
+	},
+	{
+		"id":"109",
+		"name":"リノ_ワンダー",
+		"image":"109_rino_wonder.png",
+		"position":3,
+		"config":1420
+	},
+	{
+		"id":"110",
+		"name":"リマ",
+		"image":"110_rima.png",
+		"position":1,
+		"config":10
+	},
+	{
+		"id":"111",
+		"name":"リマ_シンデレラ",
+		"image":"111_rima_cinderella.png",
+		"position":1,
+		"config":240
+	},
+	{
+		"id":"112",
+		"name":"リン",
+		"image":"112_rin.png",
+		"position":2,
+		"config":1080
+	},
+	{
+		"id":"113",
+		"name":"リン_レンジャー",
+		"image":"113_rin_ranger.png",
+		"position":2,
+		"config":880
+	},
+	{
+		"id":"114",
+		"name":"リン_デレマス",
+		"image":"114_rin_deremas.png",
+		"position":1,
+		"config":110
+	},
+	{
+		"id":"115",
+		"name":"ルゥ",
+		"image":"115_rulu.png",
+		"position":3,
+		"config":1230
+	},
+	{
+		"id":"116",
+		"name":"ルカ",
+		"image":"116_ruka.png",
+		"position":1,
+		"config":140
+	},
+	{
+		"id":"117",
+		"name":"ルナ",
+		"image":"117_runa.png",
+		"position":3,
+		"config":1510
+	},
+	{
+		"id":"118",
+		"name":"レイ",
+		"image":"118_rei.png",
+		"position":1,
+		"config":550
+	},
+	{
+		"id":"119",
+		"name":"レイ_HW",
+		"image":"119_rei_hw.png",
+		"position":2,
+		"config":750
+	},
+	{
+		"id":"120",
+		"name":"レム",
+		"image":"120_remu.png",
+		"position":2,
+		"config":1060
+	},
+	{
+		"id":"121",
+		"name":"正月キャル",
+		"image":"121_kyaru_newyear.png",
+		"position":3,
+		"config":1270
+	},
+	{
+		"id":"122",
+		"name":"正月コッコロ",
+		"image":"122_kokkoro_newyear.png",
+		"position":1,
+		"config":150
+	},
+	{
+		"id":"123",
+		"name":"正月スズメ",
+		"image":"123_suzume_newyear.png",
+		"position":3,
+		"config":1380
+	},
+	{
+		"id":"124",
+		"name":"正月ネネカ",
+		"image":"124_neneka_newyear.png",
+		"position":2,
+		"config":1110
+	},
+	{
+		"id":"125",
+		"name":"正月ヒヨリ",
+		"image":"125_hiyori_newyear.png",
+		"position":1,
+		"config":230
+	},
+	{
+		"id":"126",
+		"name":"正月ペコリーヌ",
+		"image":"126_peko_newyear.png",
+		"position":1,
+		"config":510
+	},
+	{
+		"id":"127",
+		"name":"正月ムイミ",
+		"image":"127_muimi_newyear.png",
+		"position":1,
+		"config":50
+	},
+	{
+		"id":"128",
+		"name":"正月ユイ",
+		"image":"128_yui_newyear.png",
+		"position":3,
+		"config":1460
+	},
+	{
+		"id":"129",
+		"name":"正月レイ",
+		"image":"129_rei_newyear.png",
+		"position":1,
+		"config":100
+	},
+	{
+		"id":"130",
+		"name":"水着アンナ",
+		"image":"130_anna_summer.png",
+		"position":1,
+		"config":580
+	},
+	{
+		"id":"131",
+		"name":"水着イオ",
+		"image":"131_io_summer.png",
+		"position":3,
+		"config":1360
+	},
+	{
+		"id":"132",
+		"name":"水着カオリ",
+		"image":"132_kaori_summer.png",
+		"position":2,
+		"config":900
+	},
+	{
+		"id":"133",
+		"name":"水着カスミ",
+		"image":"133_kasumi_summer.png",
+		"position":3,
+		"config":1440
+	},
+	{
+		"id":"134",
+		"name":"水着キャル",
+		"image":"134_kyaru_summer.png",
+		"position":3,
+		"config":1550
+	},
+	{
+		"id":"135",
+		"name":"水着コッコロ",
+		"image":"135_kokkoro_summer.png",
+		"position":2,
+		"config":1050
+	},
+	{
+		"id":"136",
+		"name":"水着サレン",
+		"image":"136_saren_summer.png",
+		"position":2,
+		"config":1170
+	},
+	{
+		"id":"137",
+		"name":"水着ジュン",
+		"image":"137_jun_summer.png",
+		"position":1,
+		"config":280
+	},
+	{
+		"id":"138",
+		"name":"水着スズナ",
+		"image":"138_suzuna_summer.png",
+		"position":3,
+		"config":1320
+	},
+	{
+		"id":"139",
+		"name":"水着スズメ",
+		"image":"139_suzume_summer.png",
+		"position":3,
+		"config":1540
+	},
+	{
+		"id":"140",
+		"name":"水着タマキ",
+		"image":"140_tamaki_summer.png",
+		"position":1,
+		"config":490
+	},
+	{
+		"id":"141",
+		"name":"水着ナナカ",
+		"image":"141_nanaka_summer.png",
+		"position":2,
+		"config":940
+	},
+	{
+		"id":"142",
+		"name":"水着ハツネ",
+		"image":"142_hatsune_summer.png",
+		"position":2,
+		"config":1130
+	},
+	{
+		"id":"143",
+		"name":"水着ペコリーヌ",
+		"image":"143_peko_summer.png",
+		"position":1,
+		"config":540
+	},
+	{
+		"id":"144",
+		"name":"水着マコト",
+		"image":"144_makoto_summer.png",
+		"position":1,
+		"config":270
+	},
+	{
+		"id":"145",
+		"name":"水着マホ",
+		"image":"145_maho_summer.png",
+		"position":3,
+		"config":1580
+	},
+	{
+		"id":"146",
+		"name":"水着ミサト",
+		"image":"146_misato_summer.png",
+		"position":3,
+		"config":1290
+	},
+	{
+		"id":"147",
+		"name":"水着ミフユ",
+		"image":"147_mihuyu_summer.png",
+		"position":2,
+		"config":950
+	},
+	{
+		"id":"148",
+		"name":"水着ルカ",
+		"image":"148_ruka_summer.png",
+		"position":1,
+		"config":360
+	},
+	{
+		"id":"149",
+		"name":"カヤ_タイムトラベル",
+		"image":"149_kaya_timetravel.png",
+		"position":1,
+		"config":220
+	},
+	{
+		"id":"150",
+		"name":"アオイ_作業着",
+		"image":"150_aoi_workclothes.png",
+		"position":2,
+		"config":1000
+	},
+	{
+		"id":"151",
+		"name":"ミフユ_作業着",
+		"image":"151_mifuyu_workclothes.png",
+		"position":1,
+		"config":600
+	},
+	{
+		"id":"152",
+		"name":"レイ_プリンセス",
+		"image":"152_rei_princess.png",
+		"position":2,
+		"config":760
+	},
+	{
+		"id":"153",
+		"name":"水着エリコ",
+		"image":"153_eriko_summer.png",
+		"position":2,
+		"config":820
+	},
+	{
+		"id":"154",
+		"name":"水着シズル",
+		"image":"154_sizuru_summer.png",
+		"position":1,
+		"config":180
+	},
+	{
+		"id":"155",
+		"name":"タマキ_作業着",
+		"image":"155_tamaki_workclothes.png",
+		"position":1,
+		"config":450
+	},
+	{
+		"id":"156",
+		"name":"ユイ_儀式",
+		"image":"156_yui_ritual.png",
+		"position":2,
+		"config":1160
+	},
+	{
+		"id":"157",
+		"name":"シオリ_マジカル",
+		"image":"157_siori_magic.png",
+		"position":3,
+		"config":1340
+	}
 ]
